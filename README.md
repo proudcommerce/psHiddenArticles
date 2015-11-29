@@ -37,4 +37,4 @@ Copyright
 
 	Proud Sourcing GmbH 2015
 	www.proudcommerce.com
-	www.proudsourcing,de
+	www.proudsourcing.de
