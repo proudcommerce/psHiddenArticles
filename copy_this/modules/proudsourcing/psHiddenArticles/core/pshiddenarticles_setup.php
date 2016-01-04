@@ -5,13 +5,13 @@
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  * 
- * @copyright (c) Proud Sourcing GmbH | 2015
+ * @copyright (c) Proud Sourcing GmbH | 2016
  * @link www.proudcommerce.com
  * @package psHiddenArticles
- * @version 1.0.0
+ * @version 1.0.1
 **/
 
-class pshiddenarticless_setup extends oxSuperCfg
+class pshiddenarticles_setup extends oxSuperCfg
 {
     /**
      * Setup routine

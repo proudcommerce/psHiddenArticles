@@ -9,12 +9,19 @@ Features
 
 	- admin flag for hiding articles in article lists
 	- details page can still be accessed
+	- update show/hide status with cronjob
 
 
 Installation
 
 	1. copy content from copy_this folder into your shop root
 	2. activate module psHiddenArticles in shop admin
+
+	
+Changelog
+
+	04.01.2016	1.0.1	fix wrong class names
+	29.11.2015	1.0.0	module release
 
 
 License
@@ -35,6 +42,6 @@ License
 
 Copyright
 
-	Proud Sourcing GmbH 2015
+	Proud Sourcing GmbH 2016
 	www.proudcommerce.com
 	www.proudsourcing.de

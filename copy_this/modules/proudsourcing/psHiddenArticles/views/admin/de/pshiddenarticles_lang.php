@@ -5,10 +5,10 @@
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  * 
- * @copyright (c) Proud Sourcing GmbH | 2015
+ * @copyright (c) Proud Sourcing GmbH | 2016
  * @link www.proudcommerce.com
  * @package psHiddenArticles
- * @version 1.0.0
+ * @version 1.0.1
 **/
 
 $sLangName  = 'Deutsch';
@@ -19,6 +19,6 @@ $iLangNr    = 0;
 $aLang = array(
 
     'charset'                                          => 'UTF-8',
-    'PSHIDEARTICLES_ARTICLE_MAIN_HIDDEN'               => 'Versteckt',
+    'PSHIDEARTICLES_ARTICLE_MAIN_HIDDEN'               => 'Artikel verstecken? (psHiddenArticles)',
     'HELP_PSHIDEARTICLES_ARTICLE_MAIN_HIDDEN'          => 'Soll der Artikel in Artikellisten versteckt werden, aber dennoch die Detailseite aufrufbar sein?',
 );
