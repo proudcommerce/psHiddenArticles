@@ -2,7 +2,7 @@ psHiddenArticles
 ============
 
 Hide articles in article lists.
-Free Module for OXID eShop.
+Free module for OXID eshop 4.7, 4.8, 4.9 and 4.10.
 
 
 Features
@@ -24,6 +24,11 @@ Changelog
 	29.11.2015	1.0.0	module release
 
 
+Notice
+
+    From OXID 6 this feature is included in the oxid core.
+    
+    
 License
 
     This program is free software: you can redistribute it and/or modify
@@ -43,5 +48,4 @@ License
 Copyright
 
 	Proud Sourcing GmbH 2016
-	www.proudcommerce.com
-	www.proudsourcing.de
+	www.proudcommerce.com / www.proudsourcing.de

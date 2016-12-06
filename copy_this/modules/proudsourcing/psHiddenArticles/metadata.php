@@ -27,7 +27,7 @@ $aModule = array(
         'de' => 'Erm&ouml;glicht das Verstecken von Artikeln in Artikel&uuml;bersichten',
         'en' => 'Hide articles in article lists.',
     ),
-    'thumbnail'    => 'logo-ps.jpg',
+    'thumbnail'    => 'logo_pc-os.jpg',
     'version'      => '1.0.1',
     'author'       => 'Proud Sourcing GmbH',
     'url'          => 'http://www.proudcommerce.com/',
