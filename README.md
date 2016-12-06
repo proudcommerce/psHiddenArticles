@@ -4,30 +4,27 @@ psHiddenArticles
 Hide articles in article lists.
 Free module for OXID eshop 4.7, 4.8, 4.9 and 4.10.
 
-
 Features
 
 	- admin flag for hiding articles in article lists
 	- details page can still be accessed
 	- update show/hide status with cronjob
 
-
 Installation
 
 	1. copy content from copy_this folder into your shop root
 	2. activate module psHiddenArticles in shop admin
 
+Tip: Use the [OXID module connector](https://github.com/OXIDprojects/OXID-Module-Connector) to install this module.
 	
 Changelog
 
-	04.01.2016	1.0.1	fix wrong class names
-	29.11.2015	1.0.0	module release
-
+	2016-01-04	1.0.1	fix wrong class names
+	2015-11-29	1.0.0	module release
 
 Notice
 
     From OXID 6 this feature is included in the oxid core.
-    
     
 License
 
@@ -43,7 +40,6 @@ License
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    
 
 Copyright
 
